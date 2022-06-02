@@ -67,6 +67,11 @@ main{
   margin-top:20px;
 }
 
+figcaption{
+  
+  background-color: #fff;
+}
+
 .collection{
   width:100%;
 
